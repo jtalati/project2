@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+fld_def_lib
+</name>
+</assembly>
+<members>
+<member name="P:DCP.Geosupport.DotNet.fld_def_lib.fld_def.entry_key">
+<value>Property for entry_key</value>
+</member>
+<member name="P:DCP.Geosupport.DotNet.fld_def_lib.fld_def.field_name">
+<value>Property for field_name</value>
+</member>
+<member name="P:DCP.Geosupport.DotNet.fld_def_lib.fld_def.field_value">
+<value>Property for field_value</value>
+</member>
+<member name="P:DCP.Geosupport.DotNet.fld_def_lib.fld_def.short_def">
+<value>Property for short_def</value>
+</member>
+<member name="P:DCP.Geosupport.DotNet.fld_def_lib.fld_def.def">
+<value>Property for def</value>
+</member>
+<member name="P:DCP.Geosupport.DotNet.fld_def_lib.fld_def.long_def">
+<value>Property for long_def</value>
+</member>
+<member name="T:DCP.Geosupport.DotNet.fld_def_lib.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DCP.Geosupport.DotNet.fld_def_lib.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DCP.Geosupport.DotNet.fld_def_lib.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
